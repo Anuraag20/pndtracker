@@ -11,11 +11,5 @@ fi
 printf 'Completed...\n\n'
 
 
-printf 'Ensuring necessary files for web monitoring exist...\n'
-
-if [ ! -f src/pndconsole/db.sqlite3 ]; then	
-	touch src/pndconsole/db.sqlite3
-fi
-
 printf 'Setup complete!\n'
 
