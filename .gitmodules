@@ -1,0 +1,6 @@
+[submodule "src/telegram"]
+	path = src/telegram
+	url = https://github.com/Anuraag20/pnd-telegram-monitoring
+[submodule "src/pndconsole"]
+	path = src/pndconsole
+	url = https://github.com/Anuraag20/pndconsole
